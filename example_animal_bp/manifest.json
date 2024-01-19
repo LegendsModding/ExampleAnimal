@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Example animal entity mod.",
+    "min_engine_version": [1, 16, 0],
+    "name": "example_animal",
+    "uuid":"ae4c3de3-07b4-4807-af46-7e4d00903736",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid":"cd7c8f0e-5158-49ec-99d5-487efc09fe62",
+      "version": [0, 0, 1]
+    }
+  ]
+}

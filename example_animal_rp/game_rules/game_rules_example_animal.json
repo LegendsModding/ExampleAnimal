@@ -1,0 +1,32 @@
+{
+    "badger:template": { "game_mode": "example_animal", "parent": "game_rules" },
+    "defaults": {
+      "autosaveenabled": true,
+      "bsharpenabled": true,
+      "campaignactsenabled": false,
+      "creativemodedefault": true,
+      "devplaygroundenabled": true,
+      "difficultymodeenabled": true,
+      "dodaylightcycle": true,
+      "dofogofwar": false,
+      "doplayersinvincible": true,
+      "doweathercycle": true,
+      "enablecinematicdeaths": false,
+      "enableunlocks": true,
+      "entitystreamingenabled": true,
+      "exclusiveluredunits": true,
+      "mapenabled": true,
+      "onboardingenabledcampaign": false,
+      "onboardingenabledpvp": false,
+      "popcapenabled": false,
+      "precachestructures": true,
+      "randomstartingteam": false,
+      "saveonquitenabled": true,
+      "skip_lobby_creation": true,
+      "teamcolors": false,
+      "use_flatlands_level_id": false,
+      "useactiontelemetry": false,
+      "worldsizeaxischunks": 150
+    }
+  }
+  

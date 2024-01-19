@@ -1,0 +1,57 @@
+{
+  "factions": [
+    {
+      "unique_card_id": "badger_center_example_center",
+      "placement_name": "center",
+      "placement_type": "special",
+      "spawn_entity": "badger:world_center_locator",
+      "initial_villages": {
+        "small": {
+          "count": 1
+        }
+      },
+      "tags": [
+        "example_animal",
+        "center"
+      ],
+      "placement_rules": [
+        {
+          "game_start": {}
+        }
+      ]
+    },
+    {
+      "unique_card_id": "badger_example_biome_frostlands",
+      "placement_name": "example_biome",
+      "placement_type": "biome",
+      "initial_villages": {
+        "small": {
+          "count": 1
+        }
+      },
+      "tags": [
+        "example_animal",
+        "frostlands"
+      ],
+      "biome": {
+        "biome": "frostlands",
+        "total_pixels": 32,
+        "starting_pixels": 1,
+        "spread_priority": 0
+      },
+      "placement_rules": [
+        {
+          "distance": {
+            "chunk_distance_from_parent": [
+              0, 8
+            ],
+            "distance_to_zero_score": 0,
+            "tag_parent": "center",
+            "weight": 1,
+            "mandatory_threshold": 0.1
+          }
+        }
+      ]
+    }
+  ]
+}

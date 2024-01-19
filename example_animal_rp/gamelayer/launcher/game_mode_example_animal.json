@@ -1,0 +1,17 @@
+{
+    "game_modes": [
+      {
+        "behavior_pack": "ae4c3de3-07b4-4807-af46-7e4d00903736",
+        "default_privacy": 0,
+        "loading_tip_set": "campaign",
+        "max_players": 1,
+        "name": "example_animal",
+        "parent": "myth",
+        "resource_pack": "b6da86c5-672b-4e0a-8f7f-15598e03dbc8",
+        "telemetry_name": "example_animal",
+        "ui_style": "lostLegend"
+      }
+    ],
+    "myths_hub_host_list": [{ "name": "example_animal" }]
+  }
+  
