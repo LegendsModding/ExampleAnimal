@@ -1,0 +1,40 @@
+#-*- mode: git-ignore -*-
+
+# User-specific files
+*.user
+*.userprefs
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Other
+*.DS_Store
+*.swp
+*.zip
+*.rar
+*.7z
+*.nupkg
+*.orig
+*.rej
+
+# Legends Modding
+output/
+.mcaddon

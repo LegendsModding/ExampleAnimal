@@ -1,9 +1,9 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Example animal entity mod.",
+    "description": "Legends Example Animal Behavior Pack.",
     "min_engine_version": [1, 16, 0],
-    "name": "example_animal",
+    "name": "legends_example_animal",
     "uuid":"ae4c3de3-07b4-4807-af46-7e4d00903736",
     "version": [0, 0, 1]
   },
