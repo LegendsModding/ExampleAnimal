@@ -48,7 +48,7 @@
       "geometry": {
         "default": "geometry.animal_crocapus"
       },
-      "identifier": "badger:animal_crocapus",
+      "identifier": "legends_example:animal_crocapus",
       "materials": {
         "mat_animal_crocapus": "mat_animal_crocapus"
       },
